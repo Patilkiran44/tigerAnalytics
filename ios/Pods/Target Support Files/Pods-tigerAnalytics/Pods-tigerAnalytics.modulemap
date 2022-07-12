@@ -1,0 +1,6 @@
+module Pods_tigerAnalytics {
+  umbrella header "Pods-tigerAnalytics-umbrella.h"
+
+  export *
+  module * { export * }
+}
