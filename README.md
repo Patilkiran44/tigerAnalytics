@@ -5,3 +5,10 @@ Search for pricing records using various criteria and be able to edit/save chang
 
 #Please do yarn install before running project
 # run using command : npx react-native run ios
+
+
+
+
+
+https://user-images.githubusercontent.com/95700753/178481007-d83a57a5-eaab-49de-8b9a-bf326837ff7d.mov
+
